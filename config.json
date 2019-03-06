@@ -1,0 +1,9 @@
+{
+  "learning_rate"          :               0.001,
+  "embedding_dim"          :               300,
+  "min_word_occurrence"    :               1,
+  "max_sentence_length"    :               15,
+  "epoch_num"              :               10,
+  "batch_size"             :               512,
+  "cross_validation"       :               10
+}
